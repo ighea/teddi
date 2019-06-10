@@ -1,0 +1,37 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "Teddi.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 0,2,0,0
+PRODUCTVERSION 0,2,0,0
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "040904E4"
+		 {
+			 VALUE "CompanyName", ""
+			 VALUE "FileVersion", "0.2"
+			 VALUE "FileDescription", "Teddy the Bear: Quest of Red Ribbon"
+			 VALUE "InternalName", ""
+			 VALUE "LegalCopyright", "Copyright 2007, Mika Hynnä"
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", ""
+			 VALUE "ProductName", "Teddy the Bear: Quest of Red Ribbon"
+			 VALUE "ProductVersion", "0.2"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0409, 1252
+	 }
+}
+
